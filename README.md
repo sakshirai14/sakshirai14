@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Specializing in end-to-end data science workflows<br>👯 I’m looking for opportunities in data science role<br>🌱 Currently working @JioPlatformsLimited<br><br>
+🔭 Specializing in end-to-end data engineer workflows<br>👯 I’m looking for opportunities in data engineer role<br>🌱 Currently working @JioPlatformsLimited<br><br>
 
 
 ## 🌐 Socials:
