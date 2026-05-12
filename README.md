@@ -15,36 +15,47 @@
 
 ## 🛠 Skills & Technologies
 
-### Programming & Querying
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white) 
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+### Languages & Libraries
+```text
+Python • JavaScript • Pandas • NumPy • PySpark • SQL • Scala
+```
 
-### Data Engineering & Big Data Tools
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) 
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) 
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) 
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### AI & GenAI
+```text
+LLMs • RAG • LangChain • OpenAI API • Prompt Engineering • 
+Vector Databases (PgVector, Pinecone) • Hugging Face
+```
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white) 
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) 
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![GCP](https://img.shields.io/badge/GCP-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Full-Stack Development
+```text
+React • Flask • FastAPI • Node.js • REST APIs
+```
 
-### Gen AI & AI Tools
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) 
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white) 
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) 
-![Vector DB](https://img.shields.io/badge/Vector%20DB-5A67D8?style=for-the-badge&logo=databricks&logoColor=white)
----
+### Data Processing & Analysis
+```text
+Apache Spark • Databricks • Delta Lake • ETL/ELT Pipelines • 
+CDC • Incremental Processing • Hadoop
+```
+
+### Databases & Warehousing
+```text
+PostgreSQL • MongoDB • Snowflake • BigQuery • Relational Databases
+```
+
+### Workflow & Orchestration
+```text
+Apache Airflow • dbt • Argo Workflows
+```
+
+### Cloud
+```text
+AWS • GCP • Amazon S3 • AWS Lambda • AWS Glue
+```
+
+### DevOps & Version Control
+```text
+Docker • Git • CI/CD • Linux
+```
 
 ## 💼 Experience
 
