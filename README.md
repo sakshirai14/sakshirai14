@@ -19,39 +19,32 @@
 ```text
 Python • JavaScript • Pandas • NumPy • PySpark • SQL • Scala
 ```
-
 ### AI & GenAI
 ```text
 LLMs • RAG • LangChain • OpenAI API • Prompt Engineering • 
 Vector Databases (PgVector, Pinecone) • Hugging Face
 ```
-
 ### Full-Stack Development
 ```text
 React • Flask • FastAPI • Node.js • REST APIs
 ```
-
 ### Data Processing & Analysis
 ```text
 Apache Spark • Databricks • Delta Lake • ETL/ELT Pipelines • 
 CDC • Incremental Processing • Hadoop
 ```
-
 ### Databases & Warehousing
 ```text
 PostgreSQL • MongoDB • Snowflake • BigQuery • Relational Databases
 ```
-
 ### Workflow & Orchestration
 ```text
 Apache Airflow • dbt • Argo Workflows
 ```
-
 ### Cloud
 ```text
 AWS • GCP • Amazon S3 • AWS Lambda • AWS Glue
 ```
-
 ### DevOps & Version Control
 ```text
 Docker • Git • CI/CD • Linux
@@ -81,18 +74,6 @@ Docker • Git • CI/CD • Linux
 
 - Implemented data quality frameworks using dbt tests and automated validations, reducing data inconsistencies by 35%.  
 
-## 📊 GitHub Stats
-
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshirai14&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshirai14&layout=compact&theme=radical)  
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)
-
----
-
-## 👀 Profile Visitors
-![Visitor Count](https://profile-counter.glitch.me/sakshirai14/count.svg)
 
 ---
 
