@@ -1,7 +1,7 @@
 # 💫 About Me
 
-🔭 Specializing in **end-to-end Data Engineering workflows**  
-👯 Looking for opportunities in **Data Engineer roles**  
+🔭 Specializing in **end-to-end Data Science-Gen AI workflows**  
+👯 Looking for opportunities in **Data Science/Gen AI/ Machine learning roles**  
 🌱 Currently working at **Jio Platforms Limited**  
 
 ---
@@ -53,28 +53,22 @@ Docker • Git • CI/CD • Linux
 ## 💼 Experience
 
 ### Jio Platforms Limited
-**Data Engineer** | `10/2023 – Present`  
-- Built and maintained scalable **ETL/ELT pipelines** using Python, Databricks (PySpark), and Apache Airflow, processing 50K+ records/month and supporting multiple downstream analytics use cases.  
+** Data Science-Gen AI ** | `10/2023 – Present`  
+- Developed production-grade Generative AI applications using Python, FastAPI, OpenAI APIs, LangChain, and vector databases for document understanding, question answering, semantic search, and conversational AI across enterprise datasets.
 
-- Designed and optimized distributed **PySpark pipelines** on Databricks using Delta Lake, improving performance by 25% and reducing processing latency for high-volume datasets across multiple ingestion pipelines.  
+- Designed and implemented Retrieval-Augmented Generation (RAG) systems using LangChain, FAISS, embeddings, and LLMs, transforming unstructured documents into context-aware knowledge platforms and improving information retrieval accuracy by 50%.
 
-- Integrated data from multiple sources including **REST APIs, AWS S3, Snowflake, and BigQuery**, implementing robust request/response handling, schema validation, and error management.  
+- Built AI-powered assistants for natural language-to-SQL generation, conversational analytics, automated insights, and semantic data exploration, enabling intuitive data access for non-technical users.
 
-- Collaborated with analysts, data scientists, and business stakeholders to gather data requirements and deliver analytics-ready datasets for reporting and decision-making.  
+- Engineered agentic AI workflows leveraging LLM orchestration, prompt engineering, tool calling, and multi-step reasoning to automate business processes and improve operational efficiency.
 
-- Modeled data using **star and snowflake schemas** in Snowflake and BigQuery, enabling scalable and efficient querying for BI and analytics workloads.  
+- Developed end-to-end LLM applications incorporating embeddings, vector search, prompt optimization, context management, and response evaluation to enhance answer relevance and user experience.
 
-- Automated and optimized ETL workflows using Airflow and dbt, reducing manual effort by 50% and improving pipeline scalability and maintainability.  
+- Integrated Generative AI capabilities into cloud-native applications using OpenAI, LangChain, FastAPI, AWS, and GCP, enabling scalable solutions for knowledge retrieval, document analysis, summarization, and business intelligence.
 
-- Monitored, debugged, and troubleshot data pipelines using Airflow logging, SLA alerts, and failure-handling mechanisms, achieving 90% pipeline reliability.  
+- Applied machine learning and NLP techniques for anomaly detection, text classification, semantic understanding, and recommendation systems, improving automation and decision-support capabilities.
 
-- Applied data governance practices including data validation, lineage tracking, and access control mechanisms to ensure secure and compliant data pipelines.  
-
-- Developed an AI-powered internal query chatbot by engineering REST API integrations and Python-based NLP preprocessing pipelines, automating data retrieval from BigQuery and Snowflake and improving internal response efficiency by 45%.  
-
-- Implemented data quality frameworks using dbt tests and automated validations, reducing data inconsistencies by 35%.  
-
-
+- Collaborated on scalable AI platforms supporting LLM-powered search, conversational interfaces, enterprise knowledge management, and self-service analytics, driving adoption of AI-driven decision-making.
 ---
 
 ## 📫 Contact Me
